@@ -8,7 +8,7 @@ The Michigan Department of Environment, Great Lakes and Energy does not provide 
 
 _This information was made possible in part by a Kozik Environmental Justice Reporting Grant funded by the National Press Foundation and the National Press Club Journalism Institute._
 
-## Data Dictionary
+## Data dictionary
 * X: x coordinate
 * Y: y coordinate
 * count: The number of air permits approved and active as of Dec. 19, 2021 at this location.
@@ -29,7 +29,7 @@ _This information was made possible in part by a Kozik Environmental Justice Rep
 * srnunique: Field added to differentiate when the same state registration number was used at two different sites
 * ROPNAME: Company name as listed on EGLE's Renewable Operating Permit Site list
 
-## Contact and Questions?
+## Contact and questions?
 Feel free to send an e-mail to Kristi Tanner at ktanner@freepress.com. 
 Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer). Without your support projects like this would not be possible.
 
