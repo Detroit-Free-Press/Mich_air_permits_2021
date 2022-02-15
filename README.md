@@ -39,6 +39,5 @@ Some companies may have multiple permits at different sites. Three active air po
 Demographic data used for analysis and presentation are downloaded directly from the U.S. Census Bureau. Specifically, [race and ethnicity data by census block](https://data.census.gov/cedsci/table?q=P2&g=0400000US26%241000000&tid=DECENNIALPL2020.P2) and block group in Michigan are 2020 decennial census data. And [poverty data](https://data.census.gov/cedsci/table?text=poverty&g=0400000US26%241500000&d=ACS%205-Year%20Estimates%20Detailed%20Tables&tid=ACSDT5Y2019.B17021) are the latest 5-year American Community Survey (ACS) estimates, 2019.
 
 ## Contact and questions?
-Feel free to send an e-mail to Kristi Tanner at ktanner@freepress.com. 
-Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer). Without your support projects like this would not be possible.
+E-mail Kristi Tanner at ktanner@freepress.com with questions about the data or to ask about reuse. Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer). Without your support projects like this would not be possible.
 
