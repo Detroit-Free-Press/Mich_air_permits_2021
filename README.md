@@ -1,4 +1,4 @@
-# Michigan Air Permits 2021
+# Michigan air permits: 2021
 
 The Free Press is making air permit data available for the first time to improve access and to help build on our work examining air pollution in communities with long-standing racial and socioeconomic disparities.
 
