@@ -30,9 +30,6 @@ _This information was made possible in part by a Kozik Environmental Justice Rep
 * ROPNAME: Company name as listed on EGLE's Renewable Operating Permit Site list
 
 ## Reusing the data
-which are available at . 
-which are available at . 
-which are available at . 
 The company's Terms of Service apply. By using the data, you accept and agree to follow the [Terms of Service](https://cm.freep.com/terms/).
 Reselling the data is forbidden. Any use of these data in published works requires attribution to the Detroit Free Press.
 
