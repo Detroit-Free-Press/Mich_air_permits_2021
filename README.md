@@ -31,13 +31,14 @@ _This information was made possible in part by a Kozik Environmental Justice Rep
 
 ## Reusing the data
 The company's Terms of Service apply. By using the data, you accept and agree to follow the [Terms of Service](https://cm.freep.com/terms/).
-Reselling the data is forbidden. Any use of these data in published works requires attribution to the Detroit Free Press.
-
-## Contact and questions?
-Feel free to send an e-mail to Kristi Tanner at ktanner@freepress.com. 
-Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer). Without your support projects like this would not be possible.
+Reselling the data is forbidden. Any use of these data in published works requires attribution to the Detroit Free Press. 
 
 ## Notes
 Some companies may have multiple permits at different sites. Three active air pollution permits approved in 2021 were not mapped due to incomplete address data. NAICS code for facilities, where available, are included based on facility information from the U.S. EPA. Permit files can be found on[ DocumentCloud](https://www.documentcloud.org/projects/air-pollution-permits-2021-206020/). The file name for each permit corresponds to the field ptinum.
 
 Demographic data used for analysis and presentation are downloaded directly from the U.S. Census Bureau. Specifically, [race and ethnicity data by census block](https://data.census.gov/cedsci/table?q=P2&g=0400000US26%241000000&tid=DECENNIALPL2020.P2) and block group in Michigan are 2020 decennial census data. And [poverty data](https://data.census.gov/cedsci/table?text=poverty&g=0400000US26%241500000&d=ACS%205-Year%20Estimates%20Detailed%20Tables&tid=ACSDT5Y2019.B17021) are the latest 5-year American Community Survey (ACS) estimates, 2019.
+
+## Contact and questions?
+Feel free to send an e-mail to Kristi Tanner at ktanner@freepress.com. 
+Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer). Without your support projects like this would not be possible.
+
