@@ -31,7 +31,12 @@ _This information was made possible in part by a Kozik Environmental Justice Rep
 
 ## Reusing the data
 The company's Terms of Service apply. By using the data, you accept and agree to follow the [Terms of Service](https://cm.freep.com/terms/).
-Reselling the data is forbidden. Any use of these data in published works requires attribution to the Detroit Free Press. 
+Reselling the data is forbidden. Any use of these data in published works requires attribution to the Detroit Free Press.   
+
+If you use the air permit data in any way, please take a few minutes to [fill out this survey](https://forms.gle/fpaNdazDtndJTyu57). We won't use your information without talking to you first:
+ 
+
+
 
 ## Notes
 Some companies may have multiple permits at different sites. Three active air pollution permits approved in 2021 were not mapped due to incomplete address data. NAICS code for facilities, where available, are included based on facility information from the U.S. EPA. Permit files can be found on[ DocumentCloud](https://www.documentcloud.org/projects/air-pollution-permits-2021-206020/). The file name for each permit corresponds to the field ptinum.
